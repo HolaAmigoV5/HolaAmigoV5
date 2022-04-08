@@ -33,6 +33,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HolaAmigoV5&repo=algorithm012" />
 </a>
 
-<a href="https://github.com/HolaAmigoV5/git_leaning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HolaAmigoV5&repo=git_leaning" />
+<a href="https://github.com/HolaAmigoV5/Python3-webapp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HolaAmigoV5&repo=Python3-webapp" />
 </a>
