@@ -20,11 +20,11 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/HolaAmigoV5/MyCode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HolaAmigoV5&repo=MyCode" />
 </a>
 
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/HolaAmigoV5/Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HolaAmigoV5&repo=Python" />
 </a>
