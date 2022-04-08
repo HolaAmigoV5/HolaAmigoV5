@@ -1,4 +1,8 @@
-[![HolaAmigoV5's GitHub stats](https://github-readme-stats.vercel.app/api?username=HolaAmigoV5&show_icons=true&repo=github-readme-stats)](https://github.com/HolaAmigoV5)
+[![HolaAmigoV5's GitHub stats](https://github-readme-stats.vercel.app/api?username=HolaAmigoV5&show_icons=tru)](https://github.com/HolaAmigoV5)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HolaAmigoV5)](https://github.com/HolaAmigoV5/github-readme-stats)
+
 
 ### Hi Amigo 👋
 我是.Net开发工程师，主要进行三维数字孪生应用开发，喜欢看书，旅游。一个能动能静，对各种技术充满好奇的IT民工。
