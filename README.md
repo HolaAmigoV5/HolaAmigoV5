@@ -28,3 +28,11 @@
 <a href="https://github.com/HolaAmigoV5/Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HolaAmigoV5&repo=Python" />
 </a>
+
+<a href="https://github.com/HolaAmigoV5/algorithm012">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HolaAmigoV5&repo=algorithm012" />
+</a>
+
+<a href="https://github.com/HolaAmigoV5/git_leaning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HolaAmigoV5&repo=git_leaning" />
+</a>
